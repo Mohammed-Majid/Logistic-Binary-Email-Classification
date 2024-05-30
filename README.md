@@ -30,3 +30,7 @@ The dataset email_classification.csv contains email texts labeled as spam or ham
 - pandas
 - scikit-learn
 - seaborn
+  
+## Project Structure
+- Model.ipynb: The file that contains the script.
+- email_classification.csv: The dataset used to train and test the model.
